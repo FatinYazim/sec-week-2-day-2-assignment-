@@ -529,6 +529,17 @@ gap:30px;
     height:1200px;
 
   }
+  
+  .box-6-top {
+  background-color: none;
+width: 100%;
+height: 150px;
+text-align: center;
+display: flex;
+flex-direction: column;
+gap:30px;
+
+}
   .box-6-bottom {
     color: black;
     width: 100%;
